@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Perro caminando] (https://github.com/naesti-takari/naesti-takari/blob/main/dog.gif)
+![Perro caminando](https://github.com/naesti-takari/naesti-takari/blob/main/dog.gif)
 <!--
 **naesti-takari/naesti-takari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
