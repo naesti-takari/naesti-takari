@@ -1,6 +1,11 @@
-### Hi there 👋
-<img src="/images/output/video1.gif" width="250" height="250"/> ![Perro caminando](https://github.com/naesti-takari/naesti-takari/blob/main/dog.gif)
-<img src="https://github.com/naesti-takari/naesti-takari/blob/main/dog.gif" width="250" height="250"/>
+## Hey there! 👋
+<!--<img src="/images/output/video1.gif" width="250" height="250"/> ![Perro caminando](https://github.com/naesti-takari/naesti-takari/blob/main/dog.gif)
+-->
+<img src="https://github.com/naesti-takari/naesti-takari/blob/main/dog.gif" width="50" height="50"/>
+A Materials Engineer some days, a Data Scientist some other days. 
+
+### ✨ _About me_ ✨
+I studied BSc in Electronic Engineering, a MSc in Materials Engineering and finally I got a Data Science and Artificial Intelligence diploma
 
 <!--
 **naesti-takari/naesti-takari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
