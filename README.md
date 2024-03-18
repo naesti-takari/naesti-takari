@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!👋 I'm Cami</h1> 
+<h1 align="center">Hello world!👋 I'm Cami</h1> 
 <!--<img src="/images/output/video1.gif" width="250" height="250"/> ![Perro caminando](https://github.com/naesti-takari/naesti-takari/blob/main/dog.gif)
 -->
 
