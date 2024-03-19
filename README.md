@@ -5,16 +5,17 @@
 
 <h3 align="center">✨ A Materials Engineer and Data Science enthusiast ✨</h3>
 
-<p>  I studied BSc in Electronics Engineering, a MSc in Materials Engineering. Then, I got a Data Science and Artificial Intelligence diploma. </p>
-You can see here my resume.
+<!--<p>  I studied BSc in Electronics Engineering, a MSc in Materials Engineering. Then, I got a Data Science and Artificial Intelligence diploma. </p>
+You can see here my resume.-->
 
 <!--    BEGIN How to reach me    -->
 <h2>📫 How to reach me</h2>
- Ask me about anything, I'm happy to help 😄
  <p>
-  <a href="https://linkedin.com/in/linkedinname" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedinname" height="30" width="40" /></a>
-
-</p>
+  Ask me about anything, I'm happy to help 😄
+ </p>
+ <p>
+  <a href="https://linkedin.com/in/camilachaubell"><img alt="LinkedIn - CamilaChaubell" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white"></a>
+ </p>
 
 
 
